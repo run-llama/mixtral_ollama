@@ -1,0 +1,5 @@
+__pycache__
+qdrant_data
+storage
+.DS_Store
+data
